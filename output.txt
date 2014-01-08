@@ -1,0 +1,26 @@
+You want to make scrambled eggs this morning.
+
+Do you...
+
+Use Gordon Ramsey's recipe?
+Whip up your own thing?
+Call your friend for a recipe?
+
+Enter choice number (1,2, or 3):
+1
+Success! The eggs are super fluffy and delicious. You are full and ready
+for the day.
+
+You want to make scrambled eggs this morning.
+
+Do you...
+
+Use Gordon Ramsey's recipe?
+Whip up your own thing?
+Call your friend for a recipe?
+
+Enter choice number (1,2, or 3):
+3
+You got tied up in a conversation with your friend arguing about the
+merits of your recipe vs Gordon's. As a result you spent $15 on a lame 
+breakfast at the café, because you had no time to cook.
